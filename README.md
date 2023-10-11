@@ -15,9 +15,9 @@ Once your dataset is ready, answer, by writing an appropriate code for each, the
 “rating_category” will have the same value “unknown” for each row.
 4) Display the first five rows of the dataframe.
 5) Assume that we would like to examine how movie ratings change from first observation (row
-1) to tenth observation (row 10). Draw a line plot for the movie ratings using the first ten rows.
-Do you observe any pattern in the data? If not, discuss why it might not be wise to search for a
-pattern in such type of data.
+    one) to tenth observation (row 10). Draw a line plot for the movie ratings using the first ten rows.
+    Do you observe any pattern in the data? If not, discuss why it might not be wise to search for a
+    pattern in such type of data.
 6) Assume that we would like to examine how movie ratings change across different age groups
 for the first one hundred observation. Considering only the first one hundred rows, draw a
 scatter plot where the x axis is rating, and y axis is age. Do you observe any pattern in the
