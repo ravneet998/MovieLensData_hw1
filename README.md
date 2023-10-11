@@ -1,4 +1,4 @@
-## MovieLensData_hw1
+## Movie Lens Data hw1
 Download the dataset and put it into the same folder as your
 Jupyter Notebook. The dataset describes movie ratings and user activities from MovieLens, a movie
 recommendation service. It contains 316,943 observations (i.e., data objects, rows, etc.). The dataset
